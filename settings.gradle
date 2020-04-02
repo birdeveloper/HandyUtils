@@ -1,0 +1,3 @@
+rootProject.name='HandyUtilsSample'
+include ':app'
+include ':handyutils'
